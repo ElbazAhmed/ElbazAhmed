@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elbazahmed&label=Profile%20views&color=0e75b6&style=flat" alt="elbazahmed" /> </p>
 
-- 🔭 I’m currently working on **on full stack Web Developement and UI/UX design at INPT.**
+- 🔭 I’m currently working on ** full stack Web Developement and UI/UX design at INPT.**
 
 - 🌱 I’m currently learning **everything about Software Engineering (JAVA developement, Web Frameworks)**
 
 - 👨‍💻 All of my projects are available at [https://ahmed-elbaz.netlify.app/](https://ahmed-elbaz.netlify.app/)
 
-- 📫 How to reach me **ahmedelbaz771@gmail.com|elbaz.ahmed@inemail.ine.inpt.ma**
+- 📫 How to reach me **ahmedelbaz771@gmail.com | elbaz.ahmed@inemail.ine.inpt.ma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
